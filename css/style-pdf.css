@@ -14,7 +14,7 @@
 	/*-------------------------------------------------------*/
 	#container {
 		margin:0 auto;
-		width:860px;
+		width:960px;
 		margin-bottom: 20px;
 		margin-top: 20px;
 	}
@@ -313,7 +313,7 @@
 	}
 	/* Timeline Section */
 	.timeline-section {
-		width:460px;
+		width:550px;
 		padding-right:60px;
 	}
 	.timeline {
